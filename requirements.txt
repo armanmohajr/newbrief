@@ -7,8 +7,5 @@ requests
 langchain-core
 langchain-openai
 langgraph
-langgraph.checkpoint.memory
-langgraph.prebuilt
-langgraph.graph
 
 pydantic
